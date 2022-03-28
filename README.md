@@ -11,4 +11,5 @@ the cells.
 The easiest way to run the code would be to install anaconda distribution.
 
 The training data set was downloaded from the website: https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+
 !!! Only a small part of the data set is included in the repository.
