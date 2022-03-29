@@ -4,14 +4,8 @@ The aim of the project was to create a learning network model
 based on a data set consisting of photos of healthy cells and 
 cells infected with malaria.
 
-This project was created with:* Python, 
-* Keras, 
-* TensorFlow, 
-* Scikit-learn, 
-* NumPy, 
-* Matplotlib, 
-* Seaborn, 
-* PIL.
+This project was created with: Python, Keras, TensorFlow, 
+Scikit-learn, NumPy, Matplotlib, Seaborn, PIL.
 
 
 The model's task is to distinguish between healthy cells and 
