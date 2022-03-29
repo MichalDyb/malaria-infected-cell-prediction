@@ -4,8 +4,7 @@ The aim of the project was to create a learning network model
 based on a data set consisting of photos of healthy cells and 
 cells infected with malaria.
 
-This project was created with:
-* Python, 
+This project was created with:* Python, 
 * Keras, 
 * TensorFlow, 
 * Scikit-learn, 
